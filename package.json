@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "^10.12.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisJEllis/adventofcode-ts-2018.git"
+  },
+  "author": "LewisJEllis",
+  "homepage": "https://github.com/LewisJEllis/adventofcode-ts-2018#readme"
+}

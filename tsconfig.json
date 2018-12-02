@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "types": ["node"],
+    "lib": [
+      "ES2018"
+    ],
+  }
+}
